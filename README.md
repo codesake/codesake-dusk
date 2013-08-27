@@ -1,6 +1,7 @@
 # Codesake::Dusk
 
-TODO: Write a gem description
+dusk is a a collection of ruby code snippets I daily use to automate a security
+test over a web application. 
 
 ## Installation
 
