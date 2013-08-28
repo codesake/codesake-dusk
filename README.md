@@ -1,7 +1,55 @@
-# Codesake::Dusk
+# Codesake::Dusk - the end of web applications security issues
 
-dusk is a a collection of ruby code snippets I daily use to automate a security
-test over a web application. 
+dusk is a dynamic analysis tool for websites to spot security issues. It borns
+from a bunch of ruby code snippets I wrote to automate my daily job, so I
+gather them together in the hope you'll find them useful too.
+
+[![Gem Version](https://badge.fury.io/rb/codesake-dusk.png)](http://badge.fury.io/rb/codesake-dusk)
+[![Build Status](https://travis-ci.org/codesake/codesake-dusk.png?branch=master)](https://travis-ci.org/codesake/codesake-dusk)
+[![Dependency Status](https://gemnasium.com/codesake/codesake-dusk.png)](https://gemnasium.com/codesake/codesake-dusk)
+[![Coverage Status](https://coveralls.io/repos/codesake/codesake-dusk/badge.png)](https://coveralls.io/r/codesake/codesake-dusk)
+
+## YADAST?
+
+Security market is full of both commercial than opensource dynamic testing
+tools helping people to automate some steps in a web application penetration
+test. dusk is something useful for me and that I want to share with you in case
+you eventually find it useful too.
+
+## Features
+
+| Test            | Description                          | Release time |
+|-----------------|--------------------------------------|--------------|
+| robots.txt      |                                      |              |
+| parsing         |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| url discovery   |                                      |              |
+| with bruteforce |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| ssl connection  |                                      |              |
+| evaluation      |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| login form      |                                      |              | 
+| bruteforce      |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| XSS discovery   |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| cookie testing  |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| http verb       |                                      |              |
+| evaluation      |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| site crawling   |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| detect old and  |                                      |              |
+| backup files    |                                      |              |
+|-----------------|--------------------------------------|--------------|
+| CMS fingerprint |                                      |              | 
+|-----------------|--------------------------------------|--------------|
+| information     |                                      |              |
+| gathering using |                                      |              |
+| search engines  |                                      |              |
+|-----------------|--------------------------------------|--------------|
 
 ## Installation
 
