@@ -31,7 +31,6 @@ you eventually find it useful too.
 | detect old and backup files                 |                                      |              |
 | CMS fingerprint                             |                                      |              | 
 | information gathering using search engines  |                                      |              |
-|---------------------------------------------|--------------------------------------|--------------|
 
 ## Installation
 
