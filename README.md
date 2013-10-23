@@ -16,6 +16,23 @@ tools helping people to automate some steps in a web application penetration
 test. dusk is something useful for me and that I want to share with you in case
 you eventually find it useful too.
 
+## codesake gem porting
+
+| Original gem            | Codesake gem              | Version             | Complete              |
+|-------------------------|---------------------------|---------------------|-----------------------|
+| gengiscan               | codesake-gengiscan        | 0.60.1              | 100%                  |
+| cross                   | codesake-cross            | 0.70.1              | 0%                    |
+| links                   | codesake\_links           | N/A                 | 95% (must be renamed) |
+
+## New codesake gems
+
+| Gem                     | Description                                                                                     |
+|-------------------------|-------------------------------------------------------------------------------------------------|
+| codesake-cookie         | Cookie analysis for secure, httponly flags and other stuff like value analysis after login      |
+| codesake-crawl          | An anemone based web crawler                                                                    |
+| codesake-auth           | A codesake middleware to provide website authentication facilities                              |
+
+
 ## Features
 
 | Test                                        | Description                          | Release time |
